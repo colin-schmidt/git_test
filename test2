@@ -1,0 +1,9 @@
+Practicing the following:
+    - creating new files in the cmd line with touch or echo
+    - editing those files the hacker way: code filename
+    - staging that file in git with git add filename
+    - checking the status of my git repo(?) with git status
+    - unstaging that file with git restore --staged
+    - committing that file with git commit
+    - and adding a message to that commit with git commit -m "message text"
+    - also forgetting to save the file in vs code before doing all of this lul
